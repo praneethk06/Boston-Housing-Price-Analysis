@@ -43,5 +43,4 @@ boston-housing-price-analysis/
 ### 📜 How to Run This Project
 1. Clone the repository:
    ```sh
-  git clone https://github.com/praneethk06/boston-housing-price-analysis.git
-cd boston-housing-price-analysis
+  git clone https://github.com/praneethk06/boston-housing-price-analysis.git 
