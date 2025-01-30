@@ -28,11 +28,19 @@ boston-housing-price-analysis/
 │── 📜 .gitignore                # Ignore unnecessary files (e.g., .DS_Store, pycache)
 ---
 
-## 📊 **Technologies Used**
-- **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)**
+### 📊 Statistical Models Used
+- **Multiple Linear Regression** (Baseline Model)
+- **Feature Selection (Lasso & Ridge Regression)**
+- **Adjusted R² Evaluation**
+- **Visualization: Correlation Heatmap & Regression Line**
+
+### 🛠️ Technologies Used
+- **Python (Pandas, NumPy, Matplotlib, Seaborn)**
+- **Scikit-Learn (Machine Learning)**
 - **Jupyter Notebooks**
-- **Linear Regression Model**
-- **Web Scraping (urllib3, re)**
 - **GitHub for Version Control**
 
----
+### 📜 How to Run This Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-praneethk06/boston-housing-price-analysis.git
